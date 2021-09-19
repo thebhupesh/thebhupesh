@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Personal Website**
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **Django Framework and NodeJS**
 
 - 📫 How to reach me **bpandey1706@gmail.com**
 
