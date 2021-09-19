@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bpandey1706@gmail.com**
 
-- ⚡ Fun fact **If you want to talk about TV Series and Movies, I'm your guy.**
+- ⚡ Fun fact **If you want to talk about TV Series or Movies, I'm your guy.**
 
 
 <h3 align="left">Languages and Tools:</h3>
