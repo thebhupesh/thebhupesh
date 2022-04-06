@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhupesh Pandey</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **bpandey1706@gmail.com**
 
